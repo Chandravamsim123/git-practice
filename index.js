@@ -1,2 +1,3 @@
 console.log("hello");
-console.log("version 2");
+console.log("version 3");
+console.log("New version updated");
